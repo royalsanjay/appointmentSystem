@@ -10,7 +10,8 @@ const Landing = () => {
       <div className="landingPage">
         <img width={300} src={ABC} alt="logo" />
         <h1 className="fw-bold fs-1 textColor">
-          Welcome to <br />
+          Welcome to Nepal
+          <br />
           <span>Hawk Ridge Animal Hospital</span>
         </h1>
         <br />
